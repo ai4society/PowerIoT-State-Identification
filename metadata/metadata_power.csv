@@ -1,0 +1,29 @@
+,Columns,Datatype,Description
+0,Unnamed: 0,<class 'str'>,Datetime
+1,ActivePA,<class 'numpy.float64'>,Active Power for Phase A
+2,ActivePB,<class 'numpy.float64'>,Active Power for Phase B
+3,ActivePC,<class 'numpy.float64'>,Active Power for Phase C
+4,ActivePT,<class 'numpy.float64'>,Total Active Power
+5,ApparentPA,<class 'numpy.float64'>,Apparent Power for Phase A
+6,ApparentPB,<class 'numpy.float64'>,Apparent Power for Phase B
+7,ApparentPC,<class 'numpy.float64'>,Apparent Power for Phase C
+8,ApparentPT,<class 'numpy.float64'>,Total Apparent Power
+9,FREQ,<class 'numpy.float64'>,Frequency
+10,IA,<class 'numpy.float64'>,Current for Phase A
+11,IB,<class 'numpy.float64'>,Current for Phase B
+12,IC,<class 'numpy.float64'>,Current for Phase C
+13,INCURENT,<class 'numpy.float64'>,fill here
+14,PFA,<class 'numpy.float64'>,Power Factor for Phase A
+15,PFB,<class 'numpy.float64'>,Power Factor for Phase B
+16,PFC,<class 'numpy.float64'>,Power Factor for Phase C
+17,PFT,<class 'numpy.float64'>,Total Power Factor
+18,PhaseA,<class 'numpy.float64'>,fill here
+19,PhaseB,<class 'numpy.float64'>,fill here
+20,PhaseC,<class 'numpy.float64'>,fill here
+21,ReactivePA,<class 'numpy.float64'>,Reactive Power for Phase A
+22,ReactivePB,<class 'numpy.float64'>,Reactive Power for Phase B
+23,ReactivePC,<class 'numpy.float64'>,Reactive Power for Phase C
+24,ReactivePT,<class 'numpy.float64'>,Total Reactive Power
+25,VA,<class 'numpy.float64'>,Voltage for Phase A
+26,VB,<class 'numpy.float64'>,Voltage for Phase B
+27,VC,<class 'numpy.float64'>,Voltage for Phase C
