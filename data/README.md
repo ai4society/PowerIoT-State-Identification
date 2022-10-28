@@ -17,4 +17,10 @@ The current folder contains files which detail about the information of the stat
   
 The experiments listed above were current as of October 28, 2022.
 
+# Validation Procedure
+
+- The user can visit _State Summary Validation.csv_ file to know how many states were ideally identified using our approach.
+- User can check the _location_states.json_ file for the centroids of each state that were identified for a given location.
+- The states identified using the trained model can be checked with the corresponding date in the json file for a given location.
+
   
