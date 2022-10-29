@@ -10,4 +10,4 @@ Repository for details about the dataset shared in our paper "A Dataset and Base
 
 Please fill the following google form to get the dataset link - https://forms.gle/cHJdq7a56GuAEd4N6
 
-![alt text](https://postimg.cc/TKmCp9h3)
+![alt text](https://github.com/ai4society/PowerIoT-State-Identification/blob/[master]/Tantiv4-Logo.png?raw=true)
