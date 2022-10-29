@@ -3,7 +3,7 @@ Repository for details about the dataset shared in our paper "A Dataset and Base
 1. The _code_ folder contains the python notebook with documentation of the different methods used in our approach.
 2. The _doc_ folder contains our publication.
 3. The _data_ folder contains \
-  a. _location_states.json_: file contains the details about the states obtained for each location and the respective centers for each state. \
+  a. _location_states.json_: file contains the details about the states identified for each location and the respective centers for each state. \
   b. _State Summary Validation.csv_: Validation details of the identified states for each location.
 4. The _leaderboard_ folder contains \
   a. _f1_scores.json_: This file contains the model performance for each test date in all the locations of the released dataset. \
