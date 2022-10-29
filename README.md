@@ -10,6 +10,6 @@ Repository for details about the dataset shared in our paper "A Dataset and Base
 
 Please fill the following google form to get the dataset link - https://forms.gle/cHJdq7a56GuAEd4N6
 
-![plot](https://github.com/ai4society/PowerIoT-State-Identification/blob/[master]/Tantiv4-Logo.png?raw=true)
+This is a collaborative work with Tantiv4 and University of South Carolina, Columbia.
 
-[![AIISC-Logo.png](https://i.postimg.cc/YCDVDDHY/AIISC-Logo.png)](https://postimg.cc/TKmCp9h3)
+[![AIISC-Logo.png](https://i.postimg.cc/YCDVDDHY/AIISC-Logo.png)](https://postimg.cc/TKmCp9h3) [![Tantiv4-Logo.png](https://i.postimg.cc/fyKtM9Wn/Tantiv4-Logo.png)](https://postimg.cc/jnDdXCJZ)
