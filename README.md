@@ -4,7 +4,7 @@ Repository for details about the dataset shared in our paper "A Dataset and Base
 2. The _doc_ folder contains our publication.
 3. The _data_ folder contains \
   a. _location_states.json_: file containing the details about the states obtained for each location and the respective centers for each state. \
-  b. _Excel-file_: State Validation details 
+  b. _State Summary Validation.csv_: State Validation details 
 4. The _metadata_ folder contains the metadata for both power and harmonics datasets
 6. The _results_ folder contains the graphs with the identified states using our approach for each location in the release dataset. 
 
