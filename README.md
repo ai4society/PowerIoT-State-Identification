@@ -15,6 +15,7 @@ This is a collaborative work with Tantiv4 and University of South Carolina, Colu
 [![AIISC-Logo-drawio.png](https://i.postimg.cc/CMWQWrzV/AIISC-Logo-drawio.png)](https://postimg.cc/XXkL58f2)
 
 If you are using this data please cite.
+```
 @misc{https://doi.org/10.48550/arxiv.2209.00987, 
   doi = {10.48550/ARXIV.2209.00987},
   url = {https://arxiv.org/abs/2209.00987},
@@ -25,3 +26,4 @@ If you are using this data please cite.
   year = {2022},
   copyright = {Creative Commons Attribution Non Commercial No Derivatives 4.0 International}
 }
+```
