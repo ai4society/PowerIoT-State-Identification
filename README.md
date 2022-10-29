@@ -4,8 +4,12 @@ Repository for details about the dataset shared in our paper "A Dataset and Base
 2. The _doc_ folder contains our publication.
 3. The _data_ folder contains \
   a. _location_states.json_: file containing the details about the states obtained for each location and the respective centers for each state. \
-  b. _State Summary Validation.csv_: State Validation details 
-4. The _metadata_ folder contains the metadata for both power and harmonics datasets
+  b. _State Summary Validation.csv_: Validation details of the identified states for each location.
+4. The _leaderboard_ folder contains \
+  a. _f1_scores.json_: This file contains the model performance for each test date in all the locations of the released dataset. \
+  b. _paper_f1_scores.json_: The f1_score details of the test dates presented in our paper can be found in this file. \
+  c. The step-by-step details to reproduce the results presented in our paper can be found here
+5. The _metadata_ folder contains the metadata for both power and harmonics datasets
 6. The _results_ folder contains the graphs with the identified states using our approach for each location in the release dataset. 
 
 Please fill the following Google form to get a link to the dataset - https://forms.gle/cHJdq7a56GuAEd4N6
