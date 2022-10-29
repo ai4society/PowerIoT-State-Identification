@@ -12,4 +12,4 @@ Please fill the following google form to get the dataset link - https://forms.gl
 
 This is a collaborative work with Tantiv4 and University of South Carolina, Columbia.
 
-[![AIISC-Logo.png](https://i.postimg.cc/YCDVDDHY/AIISC-Logo.png)](https://postimg.cc/TKmCp9h3) [![Tantiv4-Logo.png](https://i.postimg.cc/fyKtM9Wn/Tantiv4-Logo.png)](https://postimg.cc/jnDdXCJZ)
+[![AIISC-Logo.png](https://i.postimg.cc/YCDVDDHY/AIISC-Logo.png)](https://postimg.cc/TKmCp9h3) [![tantiveupdate.png](https://i.postimg.cc/DZD5q0tX/tantiveupdate.png)](https://postimg.cc/Vrqjwfsf)
