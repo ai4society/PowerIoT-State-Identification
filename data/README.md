@@ -21,6 +21,6 @@ The experiments listed above were current as of October 28, 2022.
 
 - The user can look at the State Summary Validation.csv file to see how many states were optimally recognized using our method.
 - The details about the centroids obtained for the identified states can be found in the _location_states.json_ file.
-- The states identified using the trained model can be checked with the corresponding test date in the json file for a given location.
+- The states identified using the trained model can be checked with the corresponding test date in the _location_states.json_ file for a given location.
 
   
