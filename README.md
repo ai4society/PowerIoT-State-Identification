@@ -8,7 +8,7 @@ Repository for details about the dataset shared in our paper "A Dataset and Base
 4. The _metadata_ folder contains the metadata for both power and harmonics datasets
 6. The _results_ folder contains the graphs with the identified states using our approach for each location in the release dataset. 
 
-Please fill the following google form to get the dataset link - https://forms.gle/cHJdq7a56GuAEd4N6
+Please fill the following Google form to get a link to the dataset - https://forms.gle/cHJdq7a56GuAEd4N6
 
 This is a collaborative work with Tantiv4 and University of South Carolina, Columbia.
 
