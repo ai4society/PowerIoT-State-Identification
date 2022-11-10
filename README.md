@@ -18,7 +18,7 @@ Please fill the following Google form to get a link to the dataset - https://for
 Additional data for more days for the same locations presented in our paper from January-August 2022 can be requested for research purposes by contacting the authors.
 
 # Citations
-If you are using this data please cite.
+If you are using this data, please cite.
 ```
 @misc{https://doi.org/10.48550/arxiv.2209.00987, 
   doi = {10.48550/ARXIV.2209.00987},
