@@ -12,11 +12,10 @@ Repository for details about the dataset shared in our paper "A Dataset and Base
 5. The _metadata_ folder contains the metadata for both power and harmonics datasets
 6. The _results_ folder contains the graphs with the identified states using our approach for each location in the release dataset. 
 
-Please fill the following Google form to get a link to the dataset - https://forms.gle/cHJdq7a56GuAEd4N6
 
-This is a collaborative work with Tantiv4 and University of South Carolina, Columbia.
-
-[![AIISC-Logo-drawio.png](https://i.postimg.cc/CMWQWrzV/AIISC-Logo-drawio.png)](https://postimg.cc/XXkL58f2)
+# Obtaining the dataset
+Please fill the following Google form to get a link to the dataset - https://forms.gle/cHJdq7a56GuAEd4N6 \
+Additional data for more days for the same locations presented in our paper from January-August 2022 can be requested for research purposes by contacting the authors.
 
 # Citations
 If you are using this data please cite.
@@ -35,3 +34,7 @@ If you are using this data please cite.
 
 # License
 Creative Commons Attribution 4.0 International
+
+This is a collaborative work with Tantiv4 and University of South Carolina, Columbia.
+
+[![AIISC-Logo-drawio.png](https://i.postimg.cc/CMWQWrzV/AIISC-Logo-drawio.png)](https://postimg.cc/XXkL58f2)
