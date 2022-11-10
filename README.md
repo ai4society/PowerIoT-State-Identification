@@ -31,6 +31,15 @@ If you are using this data, please cite.
   copyright = {Creative Commons Attribution Non Commercial No Derivatives 4.0 International}
 }
 ```
+'''
+@inproceedings{midas-forecasting,
+author = {Bharath C Muppasani and C J Anand and Chinmayi Appajigowda  and Biplav Srivastava  and Lokesh Johri},
+title = {Power Forecasting and Anomaly Detection with MIDAS IoT-based Sensor},
+year = {2022},
+booktitle = {DOI: 10.13140/RG.2.2.17358.33600},
+}
+'''
+
 
 # License
 Creative Commons Attribution 4.0 International
