@@ -20,23 +20,35 @@ Additional data for more days for the same locations presented in our paper from
 # Citations
 If you are using this data, please cite.
 ```
-@misc{https://doi.org/10.48550/arxiv.2209.00987, 
-  doi = {10.48550/ARXIV.2209.00987},
-  url = {https://arxiv.org/abs/2209.00987},
-  author = {Muppasani, Bharath and Anand, Cheyyur Jaya and Appajigowda, Chinmayi and Srivastava, Biplav and Johri, Lokesh},
-  keywords = {Signal Processing (eess.SP), Artificial Intelligence (cs.AI), Machine Learning (cs.LG), FOS: Electrical engineering, electronic engineering, information engineering, FOS: Computer and information sciences},
-  title = {A Dataset and Baseline Approach for Identifying Usage States from Non-Intrusive Power Sensing With MiDAS IoT-based Sensors},
-  publisher = {arXiv},
-  year = {2022},
-  copyright = {Creative Commons Attribution Non Commercial No Derivatives 4.0 International}
+@inproceedings{midas-state-id,
+
+author = {Bharath C Muppasani and C J Anand and Chinmayi Appajigowda  and Biplav Srivastava  and Lokesh Johri},
+
+title = {A Dataset and Baseline Approach for Identifying Usage States from Non-Intrusive Power Sensing With MiDAS IoT-based Sensors},
+
+booktitle = {Proc. Thirty-Fifth Annual Conference on Innovative Applications of Artificial Intelligence (AAAI/IAAI-23)},
+year = {2023},
+keywords = {Signal Processing (eess.SP), Artificial Intelligence (cs.AI), Machine Learning (cs.LG), FOS: Electrical engineering, electronic engineering, information engineering, FOS: Computer and information sciences},
+copyright = {Creative Commons Attribution Non Commercial No Derivatives 4.0 International}
+
 }
 ```
+Other works based on this data are for forecasting and interacting with it using a chatbot.
 ```
 @inproceedings{midas-forecasting,
 author = {Bharath C Muppasani and C J Anand and Chinmayi Appajigowda  and Biplav Srivastava  and Lokesh Johri},
 title = {Power Forecasting and Anomaly Detection with MIDAS IoT-based Sensor},
 year = {2022},
 booktitle = {DOI: 10.13140/RG.2.2.17358.33600},
+}
+```
+```
+@inproceedings{nl2sql,
+author = {Lakkaraju, Kausik and Palaiya, Vinamra and Paladi, Sai Teja and Appajigowda, Chinmayi and Srivastava, Biplav and Johri, Lokesh},
+title = {Data-Based Insights for the Masses: Scaling Natural Language Querying to Middleware Data},
+year = {2022},
+booktitle = {Proc. Database Sys.  Adv. App. (DASFAA)},
+keywords = {Middleware, Natural language query, Chatbots}
 }
 ```
 
